@@ -32,8 +32,7 @@ The process can be summarized as follows:
 ## Repository Contents
 
 - `code/`: Contains the Python scripts for implementing the image processing technique.
-- `images/`: Includes example input microstructure images and the intermediate/output images at various processing stages.
-- `results/`: Stores the results obtained, including triple point locations, grain boundary coordinates, and calculated dihedral angles.
+- `images/`: Includes example input microstructure images.
 - `README.md`: The document you are reading right now, providing an overview of the technique, its steps, and the repository's structure.
 
 ## Getting Started
